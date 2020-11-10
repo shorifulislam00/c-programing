@@ -1,0 +1,134 @@
+[Date: 08-11-2020]
+
+mother of all programming language
+
+1972/1973 invented
+
+bel lab
+
+dennies ritchie
+
+ken thompson developer of unix
+
+ken thompson develop B language and c language come from b language.
+
+ken thompson work in google and develop go language at 2003/2004
+
+all operation system developed in c language
+
+why learn c ?
+=============
+1. pillar of all language
+2. help us to think as computer scientist rather than software engineer
+3. simple easy and understandable
+4. low memory, big project
+
+syntax, philosophy
+
+pointer, memory management, file system, bits
+
+object based programming OOP
+
+==========================
+09-11-20
+==========================
+workplace
+environment
+
+compiler
+text editor / IDE
+terminal
+browser
+
+github
+
+what is compiler ?
+compiler is like translator.
+computer software / tools.
+
+machine level language
+high level language
+
+============================
+10-11-2020
+============================
+
+source code => compiler => compiling => machine code
+
+what is text editor ?
+microsoft office is text processing software.
+notepad is just only text editing software.
+
+IDE => Integrated Development Environment
+
+download and install codeblock IDE.
+
+download MinGW for windows. install it and open it.
+
+this is MinGW package installer. select basic from left panel. and select all package of basic by right click on package and select mark. then apply the changes from installation menu.
+
+after install this into C:\MinGW, go to C:\MinGW\msys\1.0\msys.bat
+
+this is gcc commnad line.
+
+open windows environment settings, edit PATH variable. add new location to PATH, "C:\MinGW\bin"
+
+now open cmd and type "gcc -v" for checking is that gcc installation success / fail.
+
+for text editing we use visual code studio IDE.
+
+visual studio extension: c\c++, code runner
+
+install git bash command line.
+
+terminal: cmd, powersheel, cmder
+
+[part-2]
+hello world program
+
+c programming language extension .c
+
+There have two way to run c program.
+
+1. compiling
+2. executing
+
+compiling
+------------
+compile and make binary file
+gcc hello.c -o hello
+
+run the binary file
+./hello.exe
+
+output
+Hello World
+
+success!!!
+
+steps of running code
+---------------------
+1. Editing / Writting
+2. Compiling
+3. Linking
+4. Executing
+
+C programming code structure / skeleton
+-----------------------------------------
+#include <stdio.h>  -> header file
+
+int main()  -> main function
+{
+    return 0;   -> return output
+}
+
+Explanation of code
+-------------------
+header file
+stdio -> Standard Input Output
+
+#include -> header file / system file including.
+
+\n -> new line
+\t -> tab
+
