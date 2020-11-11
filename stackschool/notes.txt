@@ -132,3 +132,13 @@ stdio -> Standard Input Output
 \n -> new line
 \t -> tab
 
+===================
+11-11-2020
+-------------------
+scap character. like: \n, \t
+
+printf() function a single quotes not working. double quotes required.
+
+/ -> forward slash
+\ -> back slash
+
