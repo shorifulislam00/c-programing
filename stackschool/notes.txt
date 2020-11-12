@@ -142,3 +142,12 @@ printf() function a single quotes not working. double quotes required.
 / -> forward slash
 \ -> back slash
 
+what is variable ?
+a variable is nothing but a name given to a storage area that our programs can manipulate.
+
+reuseable data
+duplicate value in code
+
+we don't work with raw data.
+
+variable is just a container to contain our data.
