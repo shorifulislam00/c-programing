@@ -160,3 +160,5 @@ C is a statically typed programming language.
 declaration of variable in c
 DataType variable name = value
 
+integer number is just general number
+
