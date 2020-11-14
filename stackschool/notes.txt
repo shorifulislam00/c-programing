@@ -162,3 +162,30 @@ DataType variable name = value
 
 integer number is just general number
 
+variable also known as identifier.
+
+operator (+, -, *, /)
+
+second brack is curly braces.
+
+- scope
+-- local variable
+--- under any function
+
+-- global variable
+--- outer side of function
+
+- memory life time
+-- static
+-- automatic
+
+- External Variable
+
+- Define
+-- allowcate memory location
+-- use one time
+
+- Declare
+-- give/assign value to variable
+-- use multiple times
+
