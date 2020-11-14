@@ -151,3 +151,12 @@ duplicate value in code
 we don't work with raw data.
 
 variable is just a container to contain our data.
+
+---------------------
+14-11-2020
+---------------------
+C is a statically typed programming language.
+
+declaration of variable in c
+DataType variable name = value
+
