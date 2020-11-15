@@ -189,3 +189,29 @@ second brack is curly braces.
 -- give/assign value to variable
 -- use multiple times
 
+Data type
+
+- Number
+--- Integer -- 145
+--- Float -- 78.25f
+    in floating point number declaration its good to use 'f' / 'F' after value.
+    
+--- Short
+--- Double
+--- Long
+
+
+- Text
+--- Character -- 'a', 'b', 'c'
+--- can store only one character. if given string it throw an error and store last character of string.
+
+
+- Boolean
+- Custom Type
+
+C is a case sensitive language.
+
+C language a boolean bolte kono data type nai.
+
+header file add kore boolean type data use korte hobe.
+
