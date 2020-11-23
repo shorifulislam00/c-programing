@@ -232,3 +232,10 @@ reserved words -> in C language there have 32 keywords / reserved words
 
 reserved words can't use as variable.
 
+[22-11-20]
+scanf lession
+
+library -> stdio.h -> print scan function
+
+multiple variable declaration in short way: int a, b; if same data type.
+
