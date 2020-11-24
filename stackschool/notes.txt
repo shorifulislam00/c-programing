@@ -239,3 +239,12 @@ library -> stdio.h -> print scan function
 
 multiple variable declaration in short way: int a, b; if same data type.
 
+scanf -> take input from user
+
+single value receive
+--------------------
+scanf("%d", &a);
+
+multiple value receive
+----------------------
+scanf("%d %d", &a, &b);
