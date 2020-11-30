@@ -248,3 +248,54 @@ scanf("%d", &a);
 multiple value receive
 ----------------------
 scanf("%d %d", &a, &b);
+
+
+30-11-20
+--------------
+Operator Type
+    - Unary
+        -- ++
+        -- --
+    - Binary
+        -- [Operand1] [Operator] [Operand2]
+    - Ternary
+        -- [Logic Check] ? TRUE : FALSE
+
+- Arithmatic Operator
+    -- +
+    -- -
+    -- *
+    -- /
+
+- Binary Operator
+    -- & - AND
+    -- | - OR
+    -- ^ - XOR
+    -- ~ - One's Complement
+    -- << - Binary left shift
+    -- >> - Binary right shift
+
+- Relational Operation
+    -- ==
+    -- !=
+    -- >
+    -- <
+    -- >=
+    -- <=
+
+- Logical Operator
+    -- && - AND
+    -- || - OR
+    -- ! - NOT
+
+- Assignment Operator
+    -- =
+    -- +=
+    -- -=
+    -- *=
+    -- /=
+
+- Conditional Operator
+    -- Ternary operator () ? TRUE : FALSE
+
+- Precedance of Operator
