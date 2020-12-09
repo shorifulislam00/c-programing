@@ -1,2 +1,37 @@
 starting new c programming tutorial in programiz site.
 
+Data Type in C programming
+--------------------------
++-----------------------------------------------+
+|     Type      |     Size      |     Specifier |
++-----------------------------------------------+
+|     int       |        4      |      %i, %d   |
++-----------------------------------------------+
+|     char      |        1      |      %c       |
++-----------------------------------------------+
+|     float     |        4      |     %f, %2f   |
++-----------------------------------------------+
+|     double    |        8      |       %lf     |
++-----------------------------------------------+
+|   short int   |        2      |     %hd       |
++-----------------------------------------------+
+|   long int    |        8      |   %ld, %li    |
++-----------------------------------------------+
+| unsigned int  |        4      |     %u        |
++-----------------------------------------------+
+| long double   |       16      |       %Lf     |
++-----------------------------------------------+
+
+by sizeof() function in c, you can get the size of variable.
+int a;
+printf("the size of a is = %d bytes", sizeof(a));
+
+other data types are,
+1. bool type
+2. enumerated type
+3. complex type
+
+Derived Data Types
+-------------------
+Data types that are derived from fundamental data types are derived types. 
+For example: arrays, pointers, function types, structures, etc.
